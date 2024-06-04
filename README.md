@@ -2,8 +2,8 @@
 
 ## Projenin Amacı
 
-*TCP ve IPv4 kullanılarak Socket haberleşmesi yapılmıştır.* <br/>
-*UART sanal port oluşturulup herhangi bir termite programı ile veri transferi yapılmıştır.*
+*TCP ve IPv4 kullanılarak Socket haberleşmesi yapılmıştır. Server ve client denemeleri için hercules programı kullanılmıştır.* <br/>
+*UART sanal port oluşturulup herhangi bir termite programı ile veri transferi yapılabilir. Bu projede hercules programı kullanılmıştır.*
 
 `Kullanılan yardımcı programlar: hercules_3-2-8 ve Virtual Serial Port Driver`
 
